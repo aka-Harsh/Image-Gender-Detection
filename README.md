@@ -1,6 +1,6 @@
 # Image Gender Detection
 
-🛠️ <br>
+🛠️ .<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height="26" alt="vscode logo"  />
@@ -16,7 +16,7 @@
 
 ## Prerequisites
 ⚠️***Optional: Doing this part is completey optionals as I have provided my pretrained model in the models folder***.<br><br>
-Intall the face images dataset to train your model from 👉 [Face Images](https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset).<br>
+Intall the face images dataset to train your model from 👉 [Face Images](https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset).<br><br>
 🚨NOTE 1: Extract the zip file and create a **data** folder in your root directory, and in the data folder create 2 more folders named **train** and **validation**.<br>
 🚨NOTE 2: Create 2 more folders in both **train** and **validation** folder named **male** and **female** and put images in those folders accordingly.<br>
 🚨NOTE 3: Make sure to have a good split of images in **train** and **validation** folder, I used 70% images for **train** and 30% images for **validation**.
