@@ -1,6 +1,6 @@
 # Image Gender Detection
 
-🛠️ .<br>
+🛠️ This project contains a gender detection system that detects genders from realtime video feed and facial features with the help of **Convolutional Neural Network (CNN)**. Furthermore, we can capture the images and respective gender and log them in a csv file.<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height="26" alt="vscode logo"  />
