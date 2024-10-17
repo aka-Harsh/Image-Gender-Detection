@@ -15,7 +15,7 @@
 
 
 ## Prerequisites
-⚠️***Optional: Doing this part is completey optionals as I have provided my pretrained model in the models folder***.<br><br>
+⚠️***Optional: Doing below part is completey optionals as you can download my pretrained model from [here](https://drive.google.com/file/d/1kXc6r8C53gq_i7-9B4aPIAVYUbjIfWih/view?usp=sharing) and put it in your models folder***.<br><br>
 Intall the face images dataset to train your model from 👉 [Face Images](https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset).<br><br>
 🚨NOTE 1: Extract the zip file and create a **data** folder in your root directory, and in the data folder create 2 more folders named **train** and **validation**.<br>
 🚨NOTE 2: Create 2 more folders in both **train** and **validation** folder named **male** and **female** and put images in those folders accordingly.<br>
@@ -56,3 +56,7 @@ Finally run the app.py file:
 
 ## Project Outlook
 <br>
+
+![Screenshot 2024-10-18 025019](https://github.com/user-attachments/assets/221b3bf7-3f78-4123-9c33-eb8f70720f9e)
+![Screenshot 2024-10-18 025103](https://github.com/user-attachments/assets/8bdae2de-e3ee-4df4-9bbb-82e80a807da0)
+![Screenshot 2024-10-18 025246](https://github.com/user-attachments/assets/70fe447a-25b8-463b-97ea-858fdb38c913)
