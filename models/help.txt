@@ -1,0 +1,6 @@
+- This folder will contain the detection model "".
+
+- You build your custom model please follow the instruction provided in the github repository of this project.
+
+- Follow the help.txt from other folders to see how the data spilt is supposed to take place 
+(I have spilt the data in 70% for training and 30% for validation).
