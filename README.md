@@ -12,6 +12,7 @@
 ## Video Demo
 🎥 Here you can find a video of the working project.
 
+https://github.com/user-attachments/assets/7dad3355-5d21-4691-97d9-b11c13006b23
 
 
 ## Prerequisites
