@@ -44,10 +44,3 @@ Finally run the app.py file:
 ```bash
   streamlit run app.py
 ```
-
-## Project Outlook
-<br>
-
-![Screenshot 2024-10-18 025019](https://github.com/user-attachments/assets/221b3bf7-3f78-4123-9c33-eb8f70720f9e)
-![Screenshot 2024-10-18 025103](https://github.com/user-attachments/assets/8bdae2de-e3ee-4df4-9bbb-82e80a807da0)
-![Screenshot 2024-10-18 025246](https://github.com/user-attachments/assets/70fe447a-25b8-463b-97ea-858fdb38c913)
